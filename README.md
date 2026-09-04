@@ -8,7 +8,7 @@ A wireless, real-time bionic hand system powered by **ESP32** microcontrollers a
 > 
 
 <div align="center">
-  <img src="assets/Prototype.jpg" width="45%" alt="Bionic Hand">
+  <img src="assets/Prototype.png" width="45%" alt="Bionic Hand">
 </div>
 
 
