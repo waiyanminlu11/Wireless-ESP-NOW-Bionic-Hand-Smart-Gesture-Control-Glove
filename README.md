@@ -33,13 +33,4 @@ A wireless, real-time bionic hand system powered by **ESP32** microcontrollers a
 | **Servo Motors (x5)** | Robot Side | Controlled via Pins: `13` (Thumb), `14` (Index), `25` (Middle), `26` (Ring), `27` (Little) |
 | **Communication** | Wireless | ESP-NOW Protocol (Peer-to-Peer MAC targeting) |
 
----
 
-## 📂 Repository Structure
-
-```text
-esp32-wireless-bionic-hand/
-├── assets/                 # Project images, wiring diagrams, and GIFs
-├── glove_side.ino          # ESP32 code for the flex sensor glove
-├── robot_side.ino         # ESP32 code for the bionic hand servos
-└── README.md               # Project documentation
